@@ -1,9 +1,11 @@
-hello
+**hello**
 
-![unnamed](https://github.com/Nikzz23/prelimsportfolio/assets/114866835/72dbd2c2-53df-4cc0-ae5a-f2caa99a0e02)
-https://github.com/Nikzz23/prelimsportfolio/blob/03df93e12a35b158eba6d0f5a401b75356ca1b47/AAAA/Screenshot%202023-09-11%20100943.png 
+Description of the system (Explain the purpose and functionality of the system that you develop)
+Source code of the system
+Explanation of the code (explain the purpose of each function and how it works)
+Screenshot of the system (show screenshots of the menu and different functions of the systems)
+Learning Reflection (Discuss the knowledge and skills that you learn and apply in the system that you developed. Also discuss the challenges that you encountered in developing your system and how you address this challenges. Furthermore, discuss what you want to improve in the system that you developed.
 
-AAAA/Screenshot 2023-09-11 100943.png
 
 
 
