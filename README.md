@@ -586,6 +586,13 @@ class StudentDTR:
         StudentDTR.CSVconverter(id, name, date, dtr)
 ```
 
+## Running the Program/System
+
+### Display
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/f9c4d6ea-98d5-41ba-9155-0fe309941b48
+
+### Add Student
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/c32c7453-519c-4b11-90e6-b5fad1e537d5
 
 
 
