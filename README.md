@@ -587,12 +587,34 @@ class StudentDTR:
 ```
 
 ## Running the Program/System
-
-### Display
+### Student Records
+### Display Menu
 https://github.com/Nikzz23/prelimsportfolio/assets/114866835/f9c4d6ea-98d5-41ba-9155-0fe309941b48
 
 ### Add Student
 https://github.com/Nikzz23/prelimsportfolio/assets/114866835/c32c7453-519c-4b11-90e6-b5fad1e537d5
+
+### Display All Records
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/bdaf9362-a8b0-4300-9613-fecc3b59dc8e
+
+### Update Records
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/8004a5bb-e80e-4b66-a066-04b183b1f863
+
+### Search Student
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/e8e1dc84-5744-4f8a-8b32-15ca900103e7
+
+### Delete Record
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/64bab00a-5fa5-4bb5-956e-338df3b220bd
+
+### Student DTR
+### Display Student DTR
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/5acacce8-2b37-49c2-92c6-0244960d4366
+
+
+
+
+
+
 
 
 
