@@ -4,7 +4,7 @@
 * A preliminary project output for CP102. It's a record management system that reads and manipulates a CSV file. It can display the student's personal information and their daily time record. It can also add a new student assistant personal information and it will automatically create their own separate CVS DTR file. Furthermore, they can modify or delete their personal pieces of information or DTR. Because the code is long, I decided to use OOP to make my code more readable and clean.
 
 ## Source Code
-* https://github.com/Nikzz23/prelimsportfolio/blob/96c0886993b94656f92fc668d6123092f98db374/RecordManagementSystem/main.py
+* https://github.com/Nikzz23/prelimsportfolio/tree/24ee5da50a6e494ee5c9d9dd3ee0795f51939229/RecordManagementSystem
 
 ## Explanation of code
 * to run the program, we need to run the program in the 'main' file. There we can call the other functions from their respective files.
