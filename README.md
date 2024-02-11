@@ -610,6 +610,28 @@ https://github.com/Nikzz23/prelimsportfolio/assets/114866835/64bab00a-5fa5-4bb5-
 ### Display Student DTR
 https://github.com/Nikzz23/prelimsportfolio/assets/114866835/5acacce8-2b37-49c2-92c6-0244960d4366
 
+### Time In
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/fefcad3b-baf8-4adc-8170-774478114b49
+
+### Time Out
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/405bb87b-565d-43d4-a820-7b6cd3d477d2
+
+### Overtime
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/282a7533-b1a0-4891-b0b9-245b2f1715e9
+
+### Modify DTR
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/aec62299-1bca-4ae9-95a9-0522bf5d25f6
+
+### Delete Date
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/b51d5710-0dd9-41f9-baa9-b3d06e7903ea
+
+### Delete the DTR file and exit the program
+https://github.com/Nikzz23/prelimsportfolio/assets/114866835/38edd723-e314-4a35-8185-1a02bbe54e05
+
+## Reflection
+
+
+
 
 
 
