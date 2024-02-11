@@ -629,6 +629,8 @@ https://github.com/Nikzz23/prelimsportfolio/assets/114866835/b51d5710-0dd9-41f9-
 https://github.com/Nikzz23/prelimsportfolio/assets/114866835/38edd723-e314-4a35-8185-1a02bbe54e05
 
 ## Reflection
+* Building the system was hard for me because I needed to find a way to manipulate a CSV file in Python. I searched on Google and YouTube on how to manipulate a CSV file and they just showed me how I can write directly rather than manipulating it directly in the CSV file. So I thought of putting it in a dictionary first because then it would be easier to access the contents of the CSV file in the dictionary. That's how mostly my code works, the contents of the CSV file will be stored in the temporary dictionary, then i can now make some changes in the dictionary. After I make changes it will then write it to the CSV file.
+* The problem that I have noticed is that if I accidentally delete the DTR file of the student, there will be no way of creating another file for that student in the program. So to improve this program it needs to have an option to create a DTR file for a new or old student. 
 
 
 
